@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UNIAGUSTINIANA</string>
+    <string name="matricularse">CONSULTAR NOTA</string>
+    <string name="ingreso">INGRESAR</string>
+    <string name="fecha">DD/MM/YY</string>
+    <string name="docu">Tipo documento</string>
+    <string name="google_maps_key">AIzaSyC_v61BeA2nESO9yI0PCdwYjjTVDy4h2hY</string>
+</resources>

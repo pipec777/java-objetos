@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/FELIPE/Desktop/finalandroid/app/src/main/res/drawable/boton1stylo.xml" value="0.1925" />
+        <entry key="..\:/Users/FELIPE/Desktop/finalandroid/app/src/main/res/drawable/boton2stylo.xml" value="0.1925" />
+        <entry key="..\:/Users/FELIPE/Desktop/finalandroid/app/src/main/res/drawable/opcion.xml" value="0.1965" />
+        <entry key="..\:/Users/FELIPE/Desktop/finalandroid/app/src/main/res/drawable/rectangulos.xml" value="0.1905" />
+        <entry key="..\:/Users/FELIPE/Desktop/finalandroid/app/src/main/res/drawable/stylo_bordes.xml" value="0.1925" />
+        <entry key="..\:/Users/FELIPE/Desktop/finalandroid/app/src/main/res/drawable/stylo_spinner.xml" value="0.1965" />
+        <entry key="..\:/Users/FELIPE/Desktop/finalandroid/app/src/main/res/layout/activity_consulta.xml" value="0.3648148148148148" />
+        <entry key="..\:/Users/FELIPE/Desktop/finalandroid/app/src/main/res/layout/activity_formulario1.xml" value="0.25" />
+        <entry key="..\:/Users/FELIPE/Desktop/finalandroid/app/src/main/res/layout/activity_formulario2.xml" value="0.33" />
+        <entry key="..\:/Users/FELIPE/Desktop/finalandroid/app/src/main/res/layout/activity_formulario3.xml" value="0.33" />
+        <entry key="..\:/Users/FELIPE/Desktop/finalandroid/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/FELIPE/Desktop/finalandroid/app/src/main/res/layout/activity_noticias.xml" value="0.25" />
+        <entry key="..\:/Users/FELIPE/Desktop/finalandroid/app/src/main/res/layout/activity_principal.xml" value="0.25" />
+        <entry key="..\:/Users/FELIPE/Desktop/finalandroid/app/src/main/res/layout/activity_principal_consulta.xml" value="0.33" />
+        <entry key="..\:/Users/FELIPE/Desktop/finalandroid/app/src/main/res/layout/activity_quiensomos.xml" value="0.33" />
+        <entry key="..\:/Users/FELIPE/Desktop/finalandroid/app/src/main/res/layout/activity_segundo.xml" value="0.25" />
+        <entry key="..\:/Users/FELIPE/Desktop/finalandroid/app/src/main/res/layout/intemspais.xml" value="0.1824074074074074" />
+        <entry key="..\:/Users/FELIPE/Desktop/finalandroid/app/src/main/res/layout/items_frame.xml" value="0.1824074074074074" />
+        <entry key="..\:/Users/FELIPE/Desktop/finalandroid/app/src/main/res/layout/listapaises.xml" value="0.25" />
+        <entry key="..\:/Users/FELIPE/Desktop/finalandroid/app/src/main/res/layout/principalspinner.xml" value="0.1824074074074074" />
+        <entry key="..\:/Users/FELIPE/Desktop/finalandroid/app/src/main/res/menu/menu1.xml" value="0.33" />
+        <entry key="..\:/Users/FELIPE/Desktop/finalandroid/app/src/main/res/menu/popup_menu.xml" value="0.1824074074074074" />
+        <entry key="..\:/Users/FELIPE/Desktop/finalandroid/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/FELIPE/Desktop/finalandroid/app/src/main/res/xml/seguridad_red.xml" value="0.1824074074074074" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
